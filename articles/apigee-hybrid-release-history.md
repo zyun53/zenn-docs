@@ -1,0 +1,34 @@
+---
+title: "Apigee hybrid release history"
+emoji: "💬"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["Apigee", "Apigee hybrid", "GCP"]
+published: true
+---
+
+## 2021
+
+* September 13, 2021  - Apigee hybrid v1.6.0
+* August 6, 2021  - Apigee hybrid v1.5.3
+* July 23, 2021  - Apigee hybrid v1.5.2
+* July 2, 2021  - Apigee hybrid v1.5.1
+* June 18, 2021  - Apigee hybrid v1.5.0
+* June 9, 2021  - Apigee hybrid v1.4.4
+* May 3, 2021  - Apigee hybrid v1.4.3
+* March 1, 2021  - Apigee hybrid v1.4.2
+* February 26, 2021  - Apigee hybrid v1.3.6
+* February 1, 2021  - Apigee hybrid v1.4.1
+* January 25, 2021 - Apigee hybrid v1.3.5
+
+## 2020
+
+* December 17, 2020 - Apigee hybrid v1.4.0
+* December 3, 2020 - Apigee hybrid v1.3.4
+* November 16, 2020 - Apigee hybrid v1.2.1
+* September 20, 2020 - Apigee hybrid v1.3.3
+* August 27, 2020 - Apigee hybrid v1.3.2
+* August 24, 2020 - Apigee hybrid v1.3.1
+* July 30, 2020 - Apigee hybrid v1.3.0
+* April 3, 2020 - Apigee hybrid v1.2.0
+* February 14, 2020 - Apigee hybrid v1.1.1
+* January 27, 2020 - Apigee hybrid v1.1.0
