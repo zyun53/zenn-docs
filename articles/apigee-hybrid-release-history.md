@@ -6,6 +6,8 @@ topics: ["Apigee", "Apigee hybrid", "GCP"]
 published: true
 ---
 
+[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes#apigee-hybrid-releases) から hybrid のリリース履歴を抜粋しました。
+
 ## 2021
 
 * September 13, 2021  - Apigee hybrid v1.6.0
