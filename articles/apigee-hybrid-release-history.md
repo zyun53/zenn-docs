@@ -6,6 +6,8 @@ topics: ["Apigee", "Apigee hybrid", "GCP"]
 published: true
 ---
 
+# リリース履歴
+
 [Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes#apigee-hybrid-releases) から hybrid のリリース履歴を抜粋しました。
 
 ## 2021
@@ -34,3 +36,9 @@ published: true
 * April 3, 2020 - Apigee hybrid v1.2.0
 * February 14, 2020 - Apigee hybrid v1.1.1
 * January 27, 2020 - Apigee hybrid v1.1.0
+  * https://docs.apigee.com/release/notes/110-hybrid-runtime-release-notes
+
+## 2019
+
+* November 20, 2019 - 1.0.0 (GA) - Apigee hybrid runtime release notes
+  * https://docs.apigee.com/release/notes/100-hybrid-runtime-release-notes
