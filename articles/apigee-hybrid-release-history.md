@@ -1,14 +1,14 @@
 ---
-title: "Apigee hybrid release history"
+title: "Apigee hybrid リリース履歴"
 emoji: "💬"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["Apigee", "Apigee hybrid", "GCP"]
 published: true
 ---
 
 # リリース履歴
 
-[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes#apigee-hybrid-releases) から hybrid のリリース履歴を抜粋しました。
+[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes) から hybrid のリリース履歴を抜粋しました。
 
 ## 2021
 
