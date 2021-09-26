@@ -8,11 +8,17 @@ published: true
 
 # リリース履歴
 
-[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes) から hybrid のリリース履歴を抜粋しました。
+[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes) から hybrid のリリース履歴を抜粋しました。日本語訳の更新は遅れるので、英語で参照することをお勧めします。
 
 ## 2021
 
+* September 23, 2021 - Apigee hybrid v1.5.4
+  * Bug Fixes 5
+* September 23, 2021 - Apigee hybrid v1.4.5
+  * Bug Fixes 2
 * September 13, 2021  - Apigee hybrid v1.6.0
+  * New features 8
+  * Bug Fixes 6
 * August 6, 2021  - Apigee hybrid v1.5.3
 * July 23, 2021  - Apigee hybrid v1.5.2
 * July 2, 2021  - Apigee hybrid v1.5.1
