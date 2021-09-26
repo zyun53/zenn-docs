@@ -48,3 +48,21 @@ published: true
 
 * November 20, 2019 - 1.0.0 (GA) - Apigee hybrid runtime release notes
   * https://docs.apigee.com/release/notes/100-hybrid-runtime-release-notes
+
+# サポート期間
+
+マネジメントプレーンとラインタイムプレーンの互換性を保つ必要があるため、マネジメントプレーンのサポートする
+範囲内のバージョンにランタイムプレーンのバージョンを保つ必要があります。よって、これが実質サポート期間となるでしょう。
+
+記載内容から正確に読み取れませんが、現状を見る限り過去の2バージョンまではサポートされる様です。
+
+[Apigee リリース プロセス | Apigee ドキュメント | Apigee Docs](https://docs.apigee.com/release/apigee-edge-release-process?hl=ja#apigee-hybrid-release-process)
+> Apigee ハイブリッド管理プレーンは、ランタイム バージョンが公開されてから 12 か月間（または過去 4 回のリリースと 12 か月間のどちらか長いほう）、新しいハイブリッド ランタイム リリースと互換性があります。
+> 管理プレーンをアップグレードすると、12 か月以上前に公開されたランタイム バージョンが破損する可能性があります。
+> サポート期間が終了した場合、最新のリリースにアップグレードする必要があります。サポート期間を経過したリリースに対しては、サポート チケットを作成できません。
+
+# バージョニング
+
+Major.Minor.Patch
+
+マイナーは四半期ごと、パッチは毎月提供されます。
