@@ -2,16 +2,31 @@
 title: "Apigee hybrid リリース履歴"
 emoji: "💬"
 type: "tech"
-topics: ["Apigee", "Apigee hybrid", "GCP"]
+topics: ["Apigee", "Apigeehybrid", "GCP"]
 published: true
 ---
 
 # リリース履歴
 
-リリースノートから Apigee hybrid のリリース履歴を抜粋しました。日本語訳の更新は遅れるので、英語で参照することをお勧めします。
+[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes) からApigee hybridのリリース履歴を抜粋しました。
+日本語訳の更新は遅れるので、英語で参照することをお勧めします。
 
 ## 2021
 
+* December 15, 2021 - Apigee hybrid v1.6.3
+  * Bug Fixes 14
+* December 9, 2021 - Apigee hybrid v1.5.6
+  * Bug Fixes 9
+* November 22, 2021 - Apigee hybrid v1.6.2-hotfix.1
+  * Bug Fixes 1
+* November 22, 2021 - Apigee hybrid v1.5.5-hotfix.1
+  * Bug Fixes 1
+* November 3, 2021 - Apigee hybrid v1.6.2
+  * Bug Fixes 5
+* October 28, 2021 - Apigee hybrid v1.6.1
+  * Bug Fixes 11
+* October 21, 2021 - Apigee hybrid v1.5.5
+  * Bug Fixes 6
 * September 23, 2021 - Apigee hybrid v1.5.4
   * Bug Fixes 5
 * September 23, 2021 - Apigee hybrid v1.4.5
@@ -51,21 +66,18 @@ published: true
 
 # サポート期間
 
-マネジメントプレーンとラインタイムプレーンの互換性を保つ必要があるため、マネジメントプレーンのサポートする範囲内のバージョンにランタイムプレーンのバージョンを保つ必要があります。よって、これが実質サポート期間となるでしょう。
+サポート期間は以下のとおりです。
 
-記載内容から正確に読み取れませんが、現状を見る限り過去の2バージョンまではサポートされる様です。
+|Version   |Release date |Scheduled EOL date |
+|--|--|--|
+|1.6   |2021-09-13  |2022-06-13
+|1.5   |2021-06-18  |2022-03-18
 
-> Apigee ハイブリッド管理プレーンは、ランタイム バージョンが公開されてから 12 か月間（または過去 4 回のリリースと 12 か月間のどちらか長いほう）、新しいハイブリッド ランタイム リリースと互換性があります。
-> 管理プレーンをアップグレードすると、12 か月以上前に公開されたランタイム バージョンが破損する可能性があります。
-> サポート期間が終了した場合、最新のリリースにアップグレードする必要があります。サポート期間を経過したリリースに対しては、サポート チケットを作成できません。
+[Apigee hybrid supported platforms and versions](https://cloud.google.com/apigee/docs/hybrid/supported-platforms) からの抜粋です。
 
 # バージョニング
 
-Major.Minor.Patch
+`Major.Minor.Patch`
 
 マイナーは四半期ごと、パッチは毎月提供されます。
-
-# 参考
-
-* [Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes)
-* [Apigee リリース プロセス](https://docs.apigee.com/release/apigee-edge-release-process?hl=ja#apigee-hybrid-release-process)
+[Apigee リリース プロセス](https://docs.apigee.com/release/apigee-edge-release-process?hl=ja#apigee-hybrid-release-process) に記載があります。
