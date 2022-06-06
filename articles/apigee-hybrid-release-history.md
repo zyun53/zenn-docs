@@ -8,7 +8,7 @@ published: true
 
 # リリース履歴
 
-[Apigee release notes](https://cloud.google.com/apigee/docs/release/notes/apigee-release-notes) からApigee hybridのリリース履歴を抜粋しました。
+[Apigee release notes](https://cloud.google.com/apigee/docs/release-notes)からApigee hybridのリリース履歴を抜粋しました。
 日本語訳の更新は遅れるので、英語で参照することをお勧めします。
 
 ## 2021
