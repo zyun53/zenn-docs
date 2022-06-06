@@ -8,8 +8,31 @@ published: true
 
 # リリース履歴
 
-[Apigee release notes](https://cloud.google.com/apigee/docs/release-notes)からApigee hybridのリリース履歴を抜粋しました。
+[Apigee release notes](https://cloud.google.com/apigee/docs/hybrid/release-notes)からApigee hybridのリリース履歴を抜粋しました。
 日本語訳の更新は遅れるので、英語で参照することをお勧めします。
+
+## 2022
+
+久々のマイナーバージョンアップ、1.7.0がリリースされました。1.7のリリースが遅れたためか、1.6と1.5は延長サポートになってますね。
+
+|---|---|---|
+|Version |Release date| Scheduled EOL date|
+|1.7 |2022-04-18 |2023-01-18|
+|1.6 |2021-09-13 |2022-09-13|
+|1.5 |2021-06-18 |2022-06-18|
+
+* June 02, 2022 - v1.7.1
+* May 31, 2022 - v1.6.8
+* May 11, 2022 - v1.6.7
+* May 10, 2022 - v1.7.0 & v1.5.10 & v1.6.7
+  * Issue 1
+* April 22, 2022 - v1.5.10
+* April 18, 2022 - v1.7.0
+* March 24, 2022 - v1.6.6 & v1.5.9
+* March 01, 2022 - v1.5.8
+* February 28, 2022 - v1.6.5
+* January 31, 2022 - v1.6.4
+* January 28, 2022 - v1.5.7
 
 ## 2021
 
