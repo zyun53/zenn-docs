@@ -13,13 +13,7 @@ published: true
 
 ## 2022
 
-久々のマイナーバージョンアップ、1.7.0がリリースされました。1.7のリリースが遅れたためか、1.6と1.5は延長サポートになってますね。
-
-|Version |Release date |Scheduled EOL date|
-|---     |---          |---               |
-|1.7     |2022-04-18   |2023-01-18        |
-|1.6     |2021-09-13   |2022-09-13        |
-|1.5     |2021-06-18   |2022-06-18        |
+久々のマイナーバージョンアップである1.7がリリースされました。1.7のリリースが遅れたためか、1.6と1.5は延長サポートになっています。
 
 * June 02, 2022 - v1.7.1
 * May 31, 2022 - v1.6.8
@@ -91,10 +85,11 @@ published: true
 
 サポート期間は以下のとおりです。
 
-|Version   |Release date |Scheduled EOL date |
-|--|--|--|
-|1.6   |2021-09-13  |2022-06-13
-|1.5   |2021-06-18  |2022-03-18
+|Version |Release date |Scheduled EOL date|
+|---     |---          |---               |
+|1.7     |2022-04-18   |2023-01-18        |
+|1.6     |2021-09-13   |2022-09-13        |
+|1.5     |2021-06-18   |2022-06-18        |
 
 [Apigee hybrid supported platforms and versions](https://cloud.google.com/apigee/docs/hybrid/supported-platforms) からの抜粋です。
 
