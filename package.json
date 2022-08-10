@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/zyun-i/zenn-docs#readme",
   "dependencies": {
-    "textlint": "^11.9.1",
+    "textlint": "^12.2.1",
     "textlint-rule-preset-ja-technical-writing": "^4.0.1",
     "textlint-rule-preset-jtf-style": "^2.3.12",
     "textlint-rule-prh": "^5.3.0",
-    "zenn-cli": "^0.1.93"
+    "zenn-cli": "^0.1.117"
   }
 }
