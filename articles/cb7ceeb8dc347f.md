@@ -6,6 +6,8 @@ topics: ["ipv6"]
 published: true
 ---
 
+よく使いサブネットの計算等をメモしてます。
+
 ## 用途
 
 | Net           | 用途                                   |
