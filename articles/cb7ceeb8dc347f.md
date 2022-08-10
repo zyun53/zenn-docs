@@ -6,19 +6,19 @@ topics: ["ipv6"]
 published: true
 ---
 
-よく使いサブネットの計算等をメモしてます。
+よく使うサブネットの範囲等のIPv6に関するメモです。
 
 ## 用途
 
 | Net           | 用途                                   |
 | ---           | ---                                    |
-| fc00::/7      | Unique local address A                 |
-| fc00::/8      | 未定義                                 |
-| fd00::/8      | ランダムに使用                         |
-| fe80::/10     | Link local address                     |
+| fc00::/7      | Unique Local Address                   |
+| fc00::/8      | ULA(未定義)                            |
+| fd00::/8      | ULA(ランダムに使用)                    |
+| fe80::/10     | Link Local Address                     |
 | 2001::/16     | Global Unique Address                  |
 | 2002::/16     | 6to4                                   |
-| ff00::/8      | Multicast addresses                    |
+| ff00::/8      | Multicast Address                      |
 | 2001:db8::/32 | Documentation prefix used for examples |
 
 ## サブネット
@@ -58,4 +58,3 @@ published: true
 |    120 |   $2^{8}$ |           |           |           |           |                                     256 |                                                      256 |
 |    124 |   $2^{4}$ |           |           |           |           |                                      16 |                                                       16 |
 |    128 |   $2^{0}$ |           |           |           |           |                                       1 |                                                        1 |
-
